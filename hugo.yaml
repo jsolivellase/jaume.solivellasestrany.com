@@ -18,6 +18,10 @@ minify:
   disableXML: true
   minifyOutput: true
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 languages:
   ca:
     languageCode: ca-ES
