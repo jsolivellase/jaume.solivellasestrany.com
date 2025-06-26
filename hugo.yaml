@@ -93,13 +93,13 @@ params:
   profileMode:
     enabled: false
 
-  # socialIcons:
-  #   - name: bluesky
-  #     url: "https://bsky.app/profile/jaume-solivellas.bsky.social"
+  socialIcons:
+    - name: github
+      url: "https://github.com/jsolivellase"
+    - name: bluesky
+      url: "https://bsky.app/profile/jaume-solivellas.bsky.social"
   #   - name: x
   #     url: "https://x.com/jsolivellase"
-  #   - name: github
-  #     url: "https://github.com/jsolivellase"
 
   assets:
     disableHLJS: true
