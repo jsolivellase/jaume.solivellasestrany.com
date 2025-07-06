@@ -2,7 +2,7 @@
 date = '2025-06-26'
 draft = false
 tags = ['personal']
-title = 'One more time'
+title = 'One More Time'
 +++
 
 Since I was a child, the idea of writing a blog has attracted me. During my adolescence, at the beginning of the 21st century, the popularity of blogging skyrocketed. Anyway, I didn't have the technical skills to start the journey, but with the inception of some companies like *Blogger* or *WordPress.com* at the beginning of the two thousand, the creation of blogs was democratized, making it accessible to anyone. That's why I tried to open my personal blog, but I didn't manage to write and publish anything. It was not until 2010 when I was encouraged to create my first blog and publish some posts. It didn't go far away—after a couple of months—I stopped writing because I didn't have any idea of what to write about.

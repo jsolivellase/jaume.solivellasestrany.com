@@ -2,7 +2,7 @@
 date = '2025-06-26'
 draft = false
 tags = ['personal']
-title = 'Una altra vegada'
+title = 'One More Time'
 +++
 
 Des de ben petit m'ha atret la idea d'escriure un blog. Durant la meva adolescència, a l'entrada del segle XXI, la creació de blogs va popularitzar-se molt. Tot i això, els meus coneixements tècnics eren limitats en aquella època fent difícil l'inici d'aquest viatge, però amb el naixement de plataformes com *Blogger* o *WordPress.com* a principis dels 2000, la creació d'aquests va democratitzar-se simplificant molt el procés. A causa de tot això, unes quantes vegades vaig intentar obrir-me'n un, tot i que mai vaig arribar a publicar res. No va ser fins a l'any 2010, quan em vaig animar a crear-me el meu primer blog i fer algunes publicacions. No va tenir gaire recorregut, passats els dos primers mesos vaig deixar d'escriure per **la falta d'idees sobre què escriure**.
