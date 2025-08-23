@@ -31,11 +31,11 @@ languages:
     
     menu:
       main:
-        - name: Etiquetes
-          url: tags/
-          weight: 5
         - name: Arxiu
           url: archive
+          weight: 5
+        - name: Etiquetes
+          url: tags/
           weight: 10
         - identifier: search
           name: 🔎
@@ -56,11 +56,11 @@ languages:
 
     menu:
       main:
-        - name: Tags
-          url: tags/
-          weight: 5
         - name: Archive
           url: archive
+          weight: 5
+        - name: Tags
+          url: tags/
           weight: 10
         - identifier: search
           name: 🔎
@@ -100,6 +100,8 @@ params:
       url: "https://github.com/jsolivellase"
     - name: bluesky
       url: "https://bsky.app/profile/jaume-solivellas.bsky.social"
+    - name: rss
+      url: "index.xml"
   #   - name: x
   #     url: "https://x.com/jsolivellase"
 
