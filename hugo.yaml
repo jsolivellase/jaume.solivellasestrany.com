@@ -94,6 +94,8 @@ params:
     enabled: false
 
   socialIcons:
+    - name: email
+      url: "mailto:jaume@solivellasestrany.com"
     - name: github
       url: "https://github.com/jsolivellase"
     - name: bluesky
